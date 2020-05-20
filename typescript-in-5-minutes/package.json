@@ -1,5 +1,29 @@
 {
-  "dependencies": {
-    "typescript": "^3.9.2"
-  }
+  "dependencies": {},
+  "name": "typescript-in-5-minutes",
+  "version": "1.0.0",
+  "main": "./dist/main.js",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^3.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaelsilva/typescript-doc.git"
+  },
+  "keywords": [
+    "documentation",
+    "typescript"
+  ],
+  "author": "kaelsilva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaelsilva/typescript-doc/issues"
+  },
+  "homepage": "https://github.com/kaelsilva/typescript-doc#readme",
+  "description": ""
 }
