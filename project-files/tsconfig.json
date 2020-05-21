@@ -1,10 +1,10 @@
 {
-  "files": [
-      "src/main.ts",
-      "src/greet.ts"
-  ],
   "compilerOptions": {
-      "noImplicitAny": true,
+      "outDir": "./built",
+      "allowJs": true,
       "target": "es5"
-  }
+  },
+  "include": [
+      "./src/**/*"
+  ]
 }
